@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Multimager-1.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/cd5509cd6970c8eecd7a8383477ce2e6412daa77/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/cd5509cd6970c8eecd7a8383477ce2e6412daa77/output/jars/libs/picasso-2.5.2.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/cd5509cd6970c8eecd7a8383477ce2e6412daa77/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

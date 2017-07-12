@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="textPrimary">#f5f5f5</color>
+    <color name="textPrimaryDark">#95AAB4</color>
+    <color name="errorText">#FF7878</color>
+
+    <color name="material_blue_500">#009688</color>
+    <color name="material_blue_700">#00796B</color>
+    <color name="material_green_A200">#FD87A9</color>
+
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#03A9F4</color>
+
+    <color name="grid_label_text_normal">#FFF</color>
+    <color name="grid_label_text_selected">#B3FFFFFF</color>
+    <color name="grid_foreground_selected">#B3000000</color>
+
+</resources>

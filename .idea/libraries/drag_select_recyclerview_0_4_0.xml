@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="drag-select-recyclerview-0.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/3d05f84398e248c98f9e6f333d1b1a4bd6ce201b/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/3d05f84398e248c98f9e6f333d1b1a4bd6ce201b/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.afollestad/drag-select-recyclerview/0.4.0/61b3d0a96fb2a6eabc692e79e6657064c43943c6/drag-select-recyclerview-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

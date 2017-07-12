@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <FrameLayout
+        android:id="@+id/main_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.design.widget.AppBarLayout
+            android:id="@+id/main_appBarLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/MultimagerTheme.AppBarOverlay">
+            <include layout="@layout/layout_toolbar" ></include>
+        </android.support.design.widget.AppBarLayout>
+
+        <ViewStub
+            android:id="@+id/cab_stub"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"/>
+
+    </FrameLayout>
+
+    <com.afollestad.dragselectrecyclerview.DragSelectRecyclerView
+        android:id="@+id/main_drag_view"
+        android:layout_below="@+id/main_appBarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:scrollbars="horizontal"
+        app:dsrv_autoScrollEnabled="true"
+        app:dsrv_autoScrollHotspotHeight="56dp"/>
+</LinearLayout>

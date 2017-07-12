@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/Downloads/PrivateGallery/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9ae05993b5ab8647de85cccd03a3db5d97febdd">
+        <dex dex="/Users/Alex/Downloads/PrivateGallery/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_212df7b520009604d69295887f953d740d72bd0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Alex/Downloads/PrivateGallery/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Alex/Downloads/PrivateGallery/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f73e53508862af075c83d7a234f573193f61b212/classes.dex" />
+    </item>
+
+</items>

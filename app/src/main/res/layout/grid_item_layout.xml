@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/main_parentLayout">
+    <FrameLayout
+        android:id="@+id/main_frameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.vlk.multimager.views.AutoImageView
+            android:id="@+id/main_image_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_1"
+            android:adjustViewBounds="true"/>
+    </FrameLayout>
+
+</RelativeLayout>
